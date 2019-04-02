@@ -1,5 +1,5 @@
 // Canvas Asteroids
-//
+// 1
 // Copyright (c) 2010 Doug McInnes
 //
 
@@ -800,7 +800,7 @@ Text = {
             break;
           case 'l':
             ctx.lineTo(outline[i++], outline[i++]);
-            break;
+            break; 
 
           case 'q':
             var cpx = outline[i++];
